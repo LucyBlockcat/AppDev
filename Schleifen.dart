@@ -4,7 +4,7 @@ void main(){
   for(int i=0; i<= limit; i++){
     print(i);
   }
-  while (z<10){
+  while (z<limit){
     z++;
     print(z);
   }
